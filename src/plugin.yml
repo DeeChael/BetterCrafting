@@ -1,0 +1,5 @@
+name: BetterCrafting
+main: org.eztools.crafting.BetterCrafting
+version: 2.0.0
+authors: [DeeChael, GedStudio]
+api-version: 1.13
